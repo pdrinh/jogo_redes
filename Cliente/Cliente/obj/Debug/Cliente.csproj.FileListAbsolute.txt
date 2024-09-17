@@ -1,0 +1,7 @@
+C:\Users\WNDN\Documents\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\WNDN\Documents\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\WNDN\Documents\Cliente\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\WNDN\Documents\Cliente\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\WNDN\Documents\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\WNDN\Documents\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\WNDN\Documents\Cliente\Cliente\obj\Debug\Cliente.pdb
